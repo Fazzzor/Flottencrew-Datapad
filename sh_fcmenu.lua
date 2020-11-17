@@ -752,9 +752,9 @@ FCMenu.Config.FCMenuMaps = {
 			"Haupthangar",
 			"Besprechungsraum",
 			"Jeditempel",
-			"Landeplätze",
+			"Landeplätze"
 		}
-    }
+    },
 	["rp_anaxes_defcon_v2"] = { -- Alderaan (New)
 		["rooms"] = {
 			"Trainingsraum",
