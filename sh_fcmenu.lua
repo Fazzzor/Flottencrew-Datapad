@@ -783,7 +783,7 @@ FCMenu.Config.FCMenuMaps = {
 			"Ebene 2",
             "Ebene 3",
 			"Außenposten",
-			"Kantine",
+			"Kantine"
 		}
     }
 }
