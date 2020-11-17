@@ -432,10 +432,10 @@ FCMenu.Config.FCMenuMaps = {
 		["rooms"] = {
 			"Zitadelle",
 			"Trainingsraum 1",
-            "Trainingshalle", 
-			"Außenposten", 
-            "Unterer Hangar", 
-			"Versammlungsraum", 
+            "Trainingshalle",
+			"Außenposten",
+            "Unterer Hangar",
+			"Versammlungsraum",
 			"Fortbildungsraum"
 		},
 		["control"] = true,
@@ -459,7 +459,9 @@ FCMenu.Config.FCMenuMaps = {
 			"Rekrutierungsraum 1",
 			"Rekrutierungsraum 2",
 			"Rekrutierungsraum 3",
-			"Rekrutierungsraum 4"
+			"Rekrutierungsraum ",
+			"Fortbildungsraum 1",
+			"Fortbildungsraum 3"
 			},
 		["control"] = true,
         ["shields"] = false,
@@ -488,7 +490,7 @@ FCMenu.Config.FCMenuMaps = {
 		["rooms"] = {
 			"Rekrutierungsraum",
 			"Zitadelle",
-			"Trainingsraum", 
+			"Trainingsraum",
 			"Fortbildungsraum 1",
 			"Fortbildungsraum 2"
 			},
@@ -724,9 +726,9 @@ FCMenu.Config.FCMenuMaps = {
 			"Gefängnis",
             "Medicstation",
             "Trainingsräume",
-			"Kantine",
+			"Kantine"
 		}
-    }
+    },
 	["rp_trueswrp_alderaan"] = { -- Alderaan
 		["rooms"] = {
             "Haupttrainingsraum",
