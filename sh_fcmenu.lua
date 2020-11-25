@@ -755,6 +755,27 @@ FCMenu.Config.FCMenuMaps = {
 			"Landeplätze"
 		}
     },
+        ["rp_arquitens"] = { -- Arquitens
+            ["rooms"] = {
+                "Zitadelle",
+                "Luftraum",
+                "Trainingsraum",
+                "Versammlungsraum"
+            },
+            ["control"] = true,
+            ["shields"] = true,
+            ["weapons"] = true,
+            ["engines"] = true,
+            ["systemName"] = "Venator",
+            ["areas"] = {
+                "Verwaltungsbereich",
+                "Kommandozentrale",
+                "Maschinenraum",
+                "Gefängnis",
+                "Medicstation",
+                "Arquitens"
+            }
+        },
 	["rp_anaxes_defcon_v2"] = { -- Alderaan (New)
 		["rooms"] = {
 			"Trainingsraum",
