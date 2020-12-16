@@ -602,6 +602,31 @@ FCMenu.Config.FCMenuMaps = {
 			"Außenposten",
 			"Kantine"
 		}
+    },
+    ["rp_anaxmas_defcon_v2"] = { -- Anaxes-Snow
+		["rooms"] = {
+			"Trainingsraum",
+			"Zitadelle",
+            "Versammlungsraum",
+			"Außenposten",
+			"Hangar 1"
+		},
+		["control"] = true,
+        ["shields"] = true,
+        ["weapons"] = false,
+        ["engines"] = false,
+		["systemName"] = "Hauptquartier",
+		["areas"] = {
+			"Kommandoturm",
+			"Konferenzraum",
+			"Gefängnis",
+			"Medicstation",
+			"Ebene 1",
+			"Ebene 2",
+            "Ebene 3",
+			"Außenposten",
+			"Kantine"
+		}
 	},
 	["rp_denon"] = { -- Coruscant with base
 		["rooms"] = {
