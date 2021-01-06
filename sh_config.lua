@@ -784,16 +784,16 @@ FCMenu.Config.FCMenuMaps = {
 	},
 	["rp_star_wars_edit"] = { -- Coruscant
 		["rooms"] = {
-			"Trainingstaum 1",
+			"Trainingsraum 1",
 			"Trainingsraum 2",
 			"Landeplatz 1",
 			"Landeplatz 2"
 		},
 		["control"] = true,
 		["shields"] = false,
-		["weapons"] = true,
+		["weapons"] = false,
 		["engines"] = false,
-		["systemName"] = "Coruscant",
+		["systemName"] = "Basis",
 		["areas"] = {
 			"Verwaltungsbereich",
 			"Kommandozentrale",
